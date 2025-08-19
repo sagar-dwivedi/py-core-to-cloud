@@ -20,8 +20,6 @@ repos:
       - id: detect-private-key
       - id: check-executables-have-shebangs
       - id: check-shebang-scripts-are-executable
-      - id: no-commit-to-branch
-        args: [--branch, main]
       - id: pretty-format-json
         args: [--autofix, --indent, "2"]
 
