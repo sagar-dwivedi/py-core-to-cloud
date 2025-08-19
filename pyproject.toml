@@ -5,7 +5,7 @@ description = "Mini Slack clone to learn Python end-to-end"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [{name = "Sagar Dwivedi", email = "sagar.dw20@gmail.com"}]
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = []
 
 [project.optional-dependencies]
